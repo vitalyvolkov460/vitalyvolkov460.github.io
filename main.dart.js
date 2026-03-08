@@ -89886,7 +89886,7 @@ ns(){var s=0,r=A.J(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e
 var $async$ns=A.K(function(a,b){if(a===1){o.push(b)
 s=p}for(;;)switch(s){case 0:p=4
 m=["/login","/register","/verify","/reset-req","/reset"][n.d]
-i=A.eF("https://server.zeeploy.xyz"+A.j(m))
+i=A.eF("https://test-1-hg6y.onrender.com"+A.j(m))
 h=t.N
 g=A.Y(["Content-Type","application/json"],h,h)
 s=7
@@ -89977,7 +89977,7 @@ $S:0}
 A.za.prototype={
 an(){return new A.SC([],[],[],[],[],A.c([],t.H7))}}
 A.SC.prototype={
-aw(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d="https://server.zeeploy.xyz",c=null,b="query"
+aw(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d="https://test-1-hg6y.onrender.com",c=null,b="query"
 e.aM()
 s=t.N
 r=t.z
@@ -89989,7 +89989,7 @@ n=p.gdR()
 m=$.auP.al(o)&&$.auP.h(0,o).d.al(n)
 l=J.d(q.h(0,"forceNew"),!0)||J.d(q.h(0,"force new connection"),!0)||!1===q.h(0,"multiplex")||m
 k=A.bK()
-if(l){$.aIJ().aH(B.m,"ignoring socket cache for https://server.zeeploy.xyz",c,c)
+if(l){$.aIJ().aH(B.m,"ignoring socket cache for https://test-1-hg6y.onrender.com",c,c)
 k.b=A.aBL(q,d)}else{j=$.auP.h(0,o)
 if(j==null){j=A.aBL(q,d)
 $.auP.m(0,o,j)}k.b=j}if(p.glL().length!==0&&q.h(0,b)==null)q.m(0,b,p.glL())
